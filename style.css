@@ -1,0 +1,26 @@
+body{
+    background-image: url(./49786-istock-0-89b44d6b1a58cb2f5d195d759b247a2c.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: darkgreen;
+}
+li{
+    margin-left: -25px;
+}
+.li2{
+    margin-left: -25px;
+}
+p{
+    color: crimson;
+}
+    
+    
+    img{
+        border: 5px solid black;
+    }
+    ul{
+        text-decoration: none;
+        list-style: none;
+    }
